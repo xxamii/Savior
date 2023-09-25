@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cat Seat
+  - Spike
+  - Respawn Point
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Spikes
+  - Mice
+  - Cat Seat
+  - Cat
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Triggers
+    uniqueID: 3126419687
+    locked: 0
+  - name: Platforms
+    uniqueID: 2447845649
+    locked: 0
+  - name: Spikes
+    uniqueID: 3491089293
+    locked: 0
+  - name: Hearts
+    uniqueID: 1781594463
+    locked: 0
+  - name: Flags
+    uniqueID: 620785789
+    locked: 0
+  - name: Cat Seat
+    uniqueID: 3886286929
+    locked: 0
+  - name: Player Cat
+    uniqueID: 2676145551
+    locked: 0
