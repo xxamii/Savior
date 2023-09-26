@@ -4,7 +4,7 @@ This is a mini web game made for the Ludum Dare 46 game jam. You play as a cat c
 
 # How to use it
 
-- Go to the games page: <https://xamigames.itch.io/saviour> and press "Run Savior". You can play it in your browser.
+- Go to the game's page: <https://xamigames.itch.io/saviour> and press "Run Savior". You can play it in your browser.
 - You control the rope with your mouse
 
 # What I learned
