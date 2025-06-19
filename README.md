@@ -9,6 +9,6 @@ This is a mini web game made for the Ludum Dare 46 game jam. You play as a cat c
 
 # What I Learned
 
-- Making a complete game with Unity and publishing it.
+- Making a complete game in Unity and publishing it.
 - Making a game under time pressure. It was my first game jam.
 - Using Unity's Spring Joint.
